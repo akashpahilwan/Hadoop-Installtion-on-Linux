@@ -244,6 +244,10 @@ To access information about resource manager current jobs, successful and failed
 ```
 http://localhost:8088/cluster
 ```
- 
+To check the details about the hdfs (namenode and datanode), Open this link in browser:
+```
+http://localhost:50070/
+```
+
 
 
