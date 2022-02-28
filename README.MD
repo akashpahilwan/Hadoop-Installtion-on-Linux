@@ -2,6 +2,7 @@ Prerequisite Test
 =============================
 To simply makes sure your list of packages from all repositories and PPA's is up to date.
 <br />
+<br />
 sudo apt update  
 <br />
 sudo apt install openjdk-8-jdk -y
