@@ -234,7 +234,7 @@ Navigate to hadoop-3.3.0/sbin/
 ```
 Run the script start-all.sh :
 ```
-./start-dfs.sh
+./start-all.sh
 ```
 Now run the below command to check if all the daemons are running or not :
 ```
@@ -248,6 +248,9 @@ To check the details about the hdfs (namenode and datanode), Open this link in b
 ```
 http://localhost:50070/
 ```
-
+To Stop all deamons:
+```
+./stop-all.sh
+```
 
 
