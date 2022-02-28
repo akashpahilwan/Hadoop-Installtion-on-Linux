@@ -3,10 +3,13 @@ Prerequisite Test
 To simply makes sure your list of packages from all repositories and PPA's is up to date.
 <br />
 <br />
-sudo apt update  
+sudo apt update <br />
 <br />
-sudo apt install openjdk-8-jdk -y
+Install java Open jdk 1.8 <br />
 <br />
+sudo apt install openjdk-8-jdk -y<br />
+<br />
+
 
 java -version; javac -version
 sudo apt install openssh-server openssh-client -y
