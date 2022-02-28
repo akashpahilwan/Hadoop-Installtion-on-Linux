@@ -1,17 +1,19 @@
 Prerequisite Test
 =============================
-To simply makes sure your list of packages from all repositories and PPA's is up to date.
+1.  To simply makes sure your list of packages from all repositories and PPA's is up to date:
 <br />
 <br />
-sudo apt update <br />
+    sudo apt update <br />
 <br />
-Install java Open jdk 1.8 <br />
+2.  Install java Open jdk 1.8: <br />
 <br />
-sudo apt install openjdk-8-jdk -y<br />
+    sudo apt install openjdk-8-jdk -y<br />
 <br />
-
-
-java -version; javac -version
+3.  Check java version and installaltion status: <br />
+<br />
+$ java -version <br />
+$ javac -version <br />
+<br />
 sudo apt install openssh-server openssh-client -y
 sudo adduser hdoop
 su - hdoop
