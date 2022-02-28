@@ -12,10 +12,10 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 chmod 0600 ~/.ssh/authorized_keys
 ssh localhost
 
-Downloading Hadoop
+Downloading Hadoop 3.3.0
 ===============================
 wget https://downloads.apache.org/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz
-tar xzf hadoop-3.2.1.tar.gz
+tar xzf hadoop-3.3.0.tar.gz
 
 
 Editng 6 important files
