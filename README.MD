@@ -169,7 +169,7 @@ Add below lines in this file(between `<configuration>` and `</configuration>` ) 
 Now press Ctrl + X and then press Y.
 
 Configuring 5th File (mapred-site.xml):
-================================================
+---------------------
 Run the below command to open mapred-site.xml file:
 ```
 sudo nano $HADOOP_HOME/etc/hadoop/mapred-site.xml
@@ -186,7 +186,7 @@ Add below lines in this file(between `<configuration>` and `</configuration>` ) 
 Now press Ctrl + X and then press Y.
 
 Configuring 6th File (yarn-site.xml):
-==================================================
+---------------------
 Run the below command to open mapred-site.xml file:
 ```
 sudo nano $HADOOP_HOME/etc/hadoop/yarn-site.xml
@@ -220,7 +220,7 @@ Add below lines in this file(between `<configuration>` and `</configuration>` ) 
 Now press Ctrl + X and then press Y.
 
 Launching Hadoop
-==================================
+================
 Formatting the Namenode:
 ---------------------
 ```
